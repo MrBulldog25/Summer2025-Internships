@@ -51,6 +51,8 @@ The torch has been passed. Use this repo to share and keep track of software, te
  - 🔒 - Internship application is closed
 
 [⬇️ Jump to bottom ⬇️](https://github.com/Ouckah/Summer2025-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+<!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
+
 | Company | Role | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
 | Five Rings | Software Engineer Wintern | New York City, NY | <a href="https://boards.greenhouse.io/fiveringsllc/jobs/4009043008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | May 03 |
